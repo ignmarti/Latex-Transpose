@@ -3,7 +3,7 @@ This repo shows an Special function to convert R dataframes into latex tables (u
 
 ## Usage 
 
-toLatex(df, header=TRUE, row.names=FALSE, digits=3, ordering=NULL)
+*toLatex(df, header=TRUE, row.names=FALSE, digits=3, ordering=NULL)*
 
 This function returns an String version of the table to be pasted into a Latex document. Parameters are as follows:
 
